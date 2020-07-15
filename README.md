@@ -1,2 +1,1 @@
-# Git_test
-Learning how to use git. Nothing special in here.
+This is Chaotic's first project.
